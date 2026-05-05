@@ -20,6 +20,9 @@ yay -S tasker
 ```
 - Any Linux:
 You can clone the repo and build locally
+- Windows:
+You can use tasker inside a WSL container. If archlinux, you can install via AUR, or you 
+can build from source
 
 ## Configuration
 
