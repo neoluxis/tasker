@@ -1,0 +1,6 @@
+[submodule "aur/tasker"]
+	path = aur/tasker
+	url = https://aur.archlinux.org/tasker.git
+[submodule "aur/tasker-bin"]
+	path = aur/tasker-bin
+	url = https://aur.archlinux.org/tasker-bin.git
